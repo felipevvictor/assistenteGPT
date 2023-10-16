@@ -1,2 +1,2 @@
 # assistenteGPT
-Developed project of assistence or smart doc with ChatGPT
+Developed project of assistance or smart doc with ChatGPT
